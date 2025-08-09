@@ -44,7 +44,7 @@
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/apuntia-rag-system.git
+   git clone [https://github.com/tuusuario/apuntia-rag-system.git](https://github.com/DiegoLizarraga/ApuntIA.git)
    cd apuntia-rag-system
    ```
 
@@ -206,13 +206,28 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autors
+Angelica Lopez
+- GitHub: https://github.com/Angie0528
+- LinkedIn: https://www.linkedin.com/in/angelica-sofia-lopez-garcia-1205b532b/
+- Email: aslopezgarcia@gmail.com
 
-**Tu Nombre**
-- GitHub: [@tuusuario](https://github.com/tuusuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tuperfil)
-- Email: tu.email@ejemplo.com
+Víctor Velázquez 
+- GitHub: https://github.com/Victor-123321
+- LinkedIn: linkedin.com/in/víctor-velázquez-1677042b3
+- Email: victor.velazquez2210@gmail.com
 
+Eilyn Resendez
+- GitHub: 
+- LinkedIn: linkedin.com/in/eilyn-resendez
+- Email: a01645344@tec.mx
+
+Diego Lizarraga
+- GitHub: https://github.com/DiegoLizarraga
+- LinkedIn: linkedin.com/in/diego-martin-lizarraga-sanchez-1499aa324
+- Email: lizarragasanchezdiego@gmail.com
+
+  
 ## 🙏 Agradecimientos
 
 - Oracle APEX Community por la documentación y ejemplos
