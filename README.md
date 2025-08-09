@@ -218,7 +218,7 @@ Víctor Velázquez
 - Email: victor.velazquez2210@gmail.com
 
 Eilyn Resendez
-- GitHub: 
+- GitHub: https://github.com/eilyn0208
 - LinkedIn: linkedin.com/in/eilyn-resendez
 - Email: a01645344@tec.mx
 
